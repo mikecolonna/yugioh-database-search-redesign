@@ -10,7 +10,7 @@ You want to learn more, but you’re intimated by the complexity.
 
 You go online to look up some cards. Maybe you search “yugioh cards” and click the second link – the official Yu-Gi-Oh! card database. You’re hit with this:
 
-![Image of Original Page](https://github.com/mikecolonna/yugioh-database-search-redesign/assets/original.png)
+![Image of Original Page](assets/original.png)
 
 Wow. That looks pretty scary.
 
