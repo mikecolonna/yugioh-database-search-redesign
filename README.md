@@ -1,6 +1,4 @@
-# Rethinking the _Yu-Gi-Oh!_ Card Database Search Page
-
-## Part 1 – The Problem
+# Part 1 – The Problem
 
 Imagine that you’re 6 years old. You’ve watched a few episodes of this show called _Yu-Gi-Oh!_ It features people “dueling” each other with huge monsters and scary demons, all of which are controlled by a card game.
 
@@ -16,7 +14,7 @@ Wow. That looks pretty scary.
 
 Immediately you’re hit with a ton of visual information. The cognitive load is high. Though it would only take a short while for you to comprehend maybe what is going on, it is unlikely that you would even stay on the page long enough for that to happen. You might be scared off.
 
-**Problem – How can the _Yu-Gi-Oh!_ card database search page be more welcoming for beginners?**
+### Problem – How can the _Yu-Gi-Oh!_ card database search page be more welcoming for beginners?
 
 In order to approach this question, we need to identify what exactly makes this form so intimidating.
 
@@ -29,7 +27,7 @@ With these two problems in mind, I set out to design an interface that would:
 2.	**Have easy access to help and documentation** to make the game less intimidating.
 3.	**Maintain precise functionality** to cater to experienced users.
 
-## Part 2 – The Redesign
+# Part 2 – The Redesign
 
 After several design iterations, I was able to condense the clutter of the previous search page and come up with a clean, informative, and reactive search page, albeit with a relative loss of precision. Let’s take an in-depth look at each section of the page.
 
