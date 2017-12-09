@@ -1,4 +1,6 @@
-# Part 1 – The Problem
+# _Yu-Gi-Oh!_ Card Database Search Page Redesign
+
+## Part 1 – The Problem
 
 Imagine that you’re 6 years old. You’ve watched a few episodes of this show called _Yu-Gi-Oh!_ It features people “dueling” each other with huge monsters and scary demons, all of which are controlled by a card game.
 
@@ -27,7 +29,7 @@ With these two problems in mind, I set out to design an interface that would:
 2.	**Have easy access to help and documentation** to make the game less intimidating.
 3.	**Maintain precise functionality** to cater to experienced users.
 
-# Part 2 – The Redesign
+## Part 2 – The Redesign
 
 After several design iterations, I was able to condense the clutter of the previous search page and come up with a clean, informative, and reactive search page, albeit with a relative loss of precision. Let’s take an in-depth look at each section of the page.
 
