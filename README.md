@@ -6,7 +6,7 @@ Imagine that you’re 6 years old. You’ve watched a few episodes of this show 
 
 Only – the rules are really complicated. You don’t immediately understand the paragraphs on paragraphs of text that accompany each card, detailing minute effects or duel restrictions that only get more and more complicated as the series progresses.
 
-You want to learn more, but you’re intimated by the complexity.
+You want to learn more, but you’re intimidated by the complexity.
 
 You go online to look up some cards. Maybe you search “yugioh cards” and click the second link – the official _Yu-Gi-Oh!_ card database. You’re hit with this:
 
